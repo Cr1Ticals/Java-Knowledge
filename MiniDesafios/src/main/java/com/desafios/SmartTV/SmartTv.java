@@ -1,3 +1,4 @@
+package com.desafios.smartTv;
 public class SmartTv {
     boolean ligada = false;
     int canal = 10;
