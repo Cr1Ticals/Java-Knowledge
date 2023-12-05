@@ -7,8 +7,9 @@ public enum EstadosBrasileiro {
     BRASILIA ("DF","Brasilia"),
     BAHIA ("BA","Bahia");
 
-    private String nome;
     private String sigla;
+    private String nome;
+    
 
     private EstadosBrasileiro(String nome, String sigla) {
         this.nome = nome;

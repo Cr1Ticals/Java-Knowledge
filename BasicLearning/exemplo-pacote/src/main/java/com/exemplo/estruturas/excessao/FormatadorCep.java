@@ -1,4 +1,4 @@
-package com.exemplo.excessao;
+package com.exemplo.estruturas.excessao;
 
 public class FormatadorCep {
     public static void main(String[] args) {

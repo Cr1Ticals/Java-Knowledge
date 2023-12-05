@@ -14,9 +14,8 @@ public class User {
     @ManyToOne
     @JoinColumn(name = "department_id")
     private Department department;
-
-    public User(){
-    }
+    //Constructor
+    public User(){}
 
     public long getId() {
         return id;

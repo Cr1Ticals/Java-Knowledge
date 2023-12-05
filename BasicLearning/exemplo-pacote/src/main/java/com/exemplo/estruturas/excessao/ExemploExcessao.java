@@ -1,4 +1,4 @@
-package com.exemplo.excessao;
+package com.exemplo.estruturas.excessao;
 
 import java.text.NumberFormat;
 import java.text.ParseException;
